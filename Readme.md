@@ -14,11 +14,10 @@ It creates a meme by inserting a quote text and author into a provided image.
 * Typing
 * ABC
 * Subprocess
-* 
 
 ## Instructions
 
-1 - Clone the repository
+1 - Clone the repository \n
 2 - Navigate to the folder using the CMD
 3 - Create and activate a virtual environment
 4 - Install the dependencies using the requirements.txt file
