@@ -1,7 +1,11 @@
+""" An engine to create the image of the meme"""
+
 from PIL import Image, ImageDraw, ImageFont
 import random
 
+
 class MemeEngine:
+    """ Class to create the image. """
     def __init__(self, out_path):
         self.out_path = out_path
 
